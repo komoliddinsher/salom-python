@@ -1,0 +1,6 @@
+# 2 masalaga yechim toq yoki juftlini aniqlash
+a= int(input(" sonni kiriting:"))
+if a%2==0:
+    print(" bu son juft")
+else:
+     print("bu son toq")    
